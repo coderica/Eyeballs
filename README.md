@@ -3,6 +3,6 @@ Design opportunities with presented by eye tracking technology
 
 - Read scrolling
 - Read gradient
-- Webpage navigation
+- Object selection
 
 http://webgazer.cs.brown.edu/#
