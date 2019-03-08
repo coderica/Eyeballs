@@ -1,8 +1,9 @@
 # Eyeballs
-Design opportunities with presented by eye tracking technology
+
+Design explorations using eye tracking technology based on http://webgazer.cs.brown.edu/#
 
 - Read scrolling
 - Read gradient
 - Object selection
 
-http://webgazer.cs.brown.edu/#
+![scrolling demo](demo.gif)

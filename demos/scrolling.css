@@ -1,0 +1,51 @@
+* {
+  font-family: sans-serif;
+}
+
+section {
+  width: 50%;
+  max-width: 650px;
+  min-width: 400px;
+  margin: 100px auto;
+}
+
+form {
+  top: 255px;
+  left: 10px;
+  position: fixed;
+  font-size: 12px;
+  text-align: center;
+  line-height: 20px;
+}
+
+input {
+  margin: 0 10;
+  vertical-align: middle;
+}
+
+h1 {
+  color: #c0c0c0;
+  text-align: right;
+}
+
+p {
+  line-height: 25px;
+  font-size: ;
+}
+
+.zone {
+  position: fixed;
+  background-color: blue;
+  opacity: 0;
+  height: 20%;
+  width: 100%;
+  transition: opacity 0.7s ease-in-out;
+}
+
+#top {
+  top: 0;
+}
+
+#bottom {
+  bottom: 0;
+}
